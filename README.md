@@ -1,1 +1,1 @@
-# fylo-landing-page
+# Project Title: Fylo landing page with two-column layout
